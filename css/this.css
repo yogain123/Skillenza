@@ -62,3 +62,112 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+footer {
+    /* background: #1c1c1c url(../images/logo_footer.png) no-repeat center 60px; */
+    background-color: #1c1c1c;
+    color: #fff;
+    width: 100%;
+    /* padding-top: 150px; */
+    padding-top: 50px;
+    text-align: center;
+    font-size: 13px;
+    display: block;
+    box-sizing: border-box;
+    
+}
+
+#nav-footer ul li a {
+    color: white;
+}
+
+#copy_right {
+    background-color: #202020;
+    padding: 10px;
+    color: #555;
+}
+
+#fixedsocial {
+    top:30%;
+    height:200px;
+    width:50px;
+    position:fixed;
+    left: 0;
+}
+
+.facebookflat {
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+    background-color: blue;
+}
+
+.facebookflat:hover {
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-right:-10px;
+    width:70px;
+
+}
+
+.twitterflat {
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+    background-color: deepskyblue;
+}
+
+.twitterflat:hover {
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-right:-10px;
+    width:70px;
+}
+.linkedinflat {
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+    background-color: green;
+}
+
+.linkedinflat:hover {
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-right:-10px;
+    width:70px;
+}
+.googleplusflat {
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+    background-color: indianred;
+}
+
+.googleplusflat:hover {
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-right:-10px;
+    width:70px;
+}
+
+
