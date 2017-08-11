@@ -27,14 +27,15 @@ A step by step series of examples that tell you have to get a development env ru
 
 
 ## Running the tests
-
+```
 * Check the Mobile view of this application , its very responsive
 * Its shinks itself according to the size of screen
 * All thanks goes to Bootstrap
+```
 
 
 
-###coding style tests
+### coding style tests
 
 ```
 * Bootstrap CDN has been used here instead of downloading and using the file locally
