@@ -75,6 +75,5 @@ This project is licensed as part of skillenza fontend development hackathon.
 ```
 
 ## Live Preview
-```
-(https://skillenza-95f26.firebaseapp.com)
-```
+
+https://skillenza-95f26.firebaseapp.com
