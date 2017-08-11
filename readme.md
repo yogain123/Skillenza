@@ -71,5 +71,5 @@ This project is licensed as part of skillenza fontend development hackathon.
 * Bootstrap
 * Font Awesone
 * Bootwatch
-* Stackover Flow
+* Stack Overflow
 ```
