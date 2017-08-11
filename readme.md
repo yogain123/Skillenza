@@ -1,4 +1,4 @@
-# Skillenza 
+# Skillenza
 
 Skillenza Fontend Development.
 
@@ -11,8 +11,8 @@ This is Landing page which is almost similar to http://www.venturesity.com/chall
 What things you need to install the software and how to install them
 
 ```
-Git bash
-Brackets.io as text editor : Recommended.
+* Git bash
+* Brackets.io as text editor : Recommended.
 
 ```
 
@@ -28,29 +28,33 @@ A step by step series of examples that tell you have to get a development env ru
 
 ## Running the tests
 
-Check the Mobile view of this application , its very responsive
-Its shinks itself according to the size of screen
-All thanks goes to Bootstrap
+* Check the Mobile view of this application , its very responsive
+* Its shinks itself according to the size of screen
+* All thanks goes to Bootstrap
 
 
 
 ###coding style tests
 
 ```
-Bootstrap CDN has been used here instead of downloading and using the file locally
+* Bootstrap CDN has been used here instead of downloading and using the file locally
 ```
 
 ## Deployment
 
-Just run index.html in your brower , or
-Run using NPM server or
-You can also run on live server using docker or Firebase.
+```
+* Just run index.html in your brower , or
+* Run using NPM server or
+* You can also run on live server using docker or Firebase.
+```
 
 
 ## Versioning
 
-Bootstrap version : 3.3.7
-font Awesome version : 4.7.0
+```
+* Bootstrap version : 3.3.7
+* font Awesome version : 4.7.0
+```
 
 ## Authors
 
@@ -62,7 +66,9 @@ This project is licensed as part of skillenza fontend development hackathon.
 
 ## Acknowledgments
 
+```
 * Bootstrap
 * Font Awesone
 * Bootwatch
 * Stackover Flow
+```
